@@ -1,0 +1,28 @@
+MACs: 1C:1B:0D:37:9B:81
+----------------------------------------
+STOPDecrypter v2.1.0.14
+OS Microsoft Windows NT 6.1.7601 Service Pack 1, .NET Framework Version 4.0.30319.18408
+----------------------------------------
+
+No key for ID: 8kJUMdCMojYpZrYGzj8S5BlitHZQkmqUvx9fCbhO (.lotep )
+No key for ID: ppAG2IEqjVWKxLoaeeEd2ondL6Wu9aHAHA2NBrt1 (.dtf )
+Unidentified ID: 8kJUMdCMojYpZrYGzj8S5BlitHZQkmqUvx9fCbhO (.lotep )
+Unidentified ID: ppAG2IEqjVWKxLoaeeEd2ondL6Wu9aHAHA2NBrt1 (.dtf )
+MACs: 1C:1B:0D:37:9B:81
+Decrypted 0 files, skipped 10
+MACs: 1C:1B:0D:37:9B:81
+----------------------------------------
+STOPDecrypter v2.1.0.14
+OS Microsoft Windows NT 6.1.7601 Service Pack 1, .NET Framework Version 4.0.30319.18408
+----------------------------------------
+
+No key for ID: 8kJUMdCMojYpZrYGzj8S5BlitHZQkmqUvx9fCbhO (.lotep )
+Unidentified ID: 8kJUMdCMojYpZrYGzj8S5BlitHZQkmqUvx9fCbhO (.lotep )
+MACs: 1C:1B:0D:37:9B:81
+Decrypted 0 files, skipped 9
+MACs: 1C:1B:0D:37:9B:81
+----------------------------------------
+STOPDecrypter v2.1.0.14
+OS Microsoft Windows NT 6.1.7601 Service Pack 1, .NET Framework Version 4.0.30319.18408
+----------------------------------------
+
